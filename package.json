@@ -1,0 +1,24 @@
+{
+    "name": "fake-charter",
+    "version": "0.0.1",
+    "description": "Fake Constitutional Wisdom Generator",
+    "main": "index.js",
+    "dependencies": {
+        "rita": "",
+        "asciify": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/lepisma/fake-charter.git"
+    },
+    "author": "Abhinav Tushar <abhinav.tushar.vs@gmail.com> (https://lepisma.github.io/about)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lepisma/fake-charter/issues"
+    },
+    "homepage": "https://github.com/lepisma/fake-charter#readme",
+    "bin": {
+        "fake-charter": "index.js"
+    },
+    "files" : ["data"]
+}
